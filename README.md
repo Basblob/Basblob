@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋. 
+#### My name is Alexander Sirota, though I usually go by Sasha. 
+I'm an aspiring Full-Stack Dev, working the most lately with React and learning how to implement databases and typescript!
+I have a passion for building tools, sites, and services that make people’s lives easier.
 
-<!--
-**Basblob/Basblob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on learning new technologies.
+- 🌱 I’m currently learning MySQL and building databases, and TypeScript!
+- 👯 I’m looking to collaborate on React pro
+- 💬 Ask me about my fun little app NotEnoughSteam!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm both an American and a Canadian citizen 🍁
 
-Here are some ideas to get you started:
+Here's where you can reach me!
+- 👔 [LinkedIn](https://www.linkedin.com/in/alexander-sirota/) 
+- 📧 [My Gmail!](mailto:sashajsirota@gmail.com) (sashajsirota@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
